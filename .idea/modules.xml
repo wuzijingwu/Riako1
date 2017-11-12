@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Duandain/Duandain.iml" filepath="$PROJECT_DIR$/Duandain/Duandain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MVPduandian/MVPduandian.iml" filepath="$PROJECT_DIR$/MVPduandian/MVPduandian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Riako.iml" filepath="$PROJECT_DIR$/Riako.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duanduan(续传)/duanduan(续传).iml" filepath="$PROJECT_DIR$/duanduan(续传)/duanduan(续传).iml" />
+      <module fileurl="file://$PROJECT_DIR$/wuzijinglianxi2/wuzijinglianxi2.iml" filepath="$PROJECT_DIR$/wuzijinglianxi2/wuzijinglianxi2.iml" />
+    </modules>
+  </component>
+</project>
